@@ -1,0 +1,8 @@
+#
+# example 01 scritty language
+#
+def col(code,text): null
+def row(code,text): null
+
+def q1():
+    col(code="one",text="Some old text")
